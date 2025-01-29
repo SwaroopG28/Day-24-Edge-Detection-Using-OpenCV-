@@ -3,7 +3,7 @@
 ## **Overview**  
 This project performs **Edge Detection** on an image using **OpenCV's Canny Edge Detector**. The Canny algorithm detects sharp intensity changes, helping to outline objects and structures within an image.
 
----
+
 
 ## **How It Works**  
 1. **Loads an Input Image**:  
